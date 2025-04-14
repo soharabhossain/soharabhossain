@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @soharabhossain
-- 👀 I’m interested in Applied Deep Learning - specifically, applications of deep learning techniques in Medical Image Processing and Biometrics. 
-- 🌱 I’m currently learning the specifics of the radiology imaging.
+- 👀 I’m interested in Applied AI - use of LLMs for building Agentic AI apps, application of deep learning in video processing. 
+- 🌱 I'm working on a unified agentic framework.
 - 💞️ I’m looking to collaborate with other researchers/practitioners working on the similar problems.
 - 📫 You may reach me over email: soharab.hossain@gmail.com
 
